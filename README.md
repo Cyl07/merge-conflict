@@ -1,3 +1,5 @@
+LOCAL
+
 # merge-conflict
 
 Here is some line of text
